@@ -1,0 +1,44 @@
+{
+  "source_language": "English",
+  "target_language": "Turkish",
+  "ocr_device": "gpu",
+  "provider": "ollama",
+  "server_url": "http://127.0.0.1:11434",
+  "model": "ali6parmak/hy-mt1.5:1.8b",
+  "scan_hz": 7,
+  "stability_ms": 120,
+  "region": {
+    "height": 277,
+    "left": 1477,
+    "screen": {
+      "height": 1440,
+      "name": "DP-2",
+      "width": 2560,
+      "x": 1080,
+      "y": 1080
+    },
+    "top": 1993,
+    "width": 1157
+  },
+  "profile": "Dengeli",
+  "overlay_enabled": true,
+  "temperature": 0,
+  "streaming": true,
+  "keep_alive": -1,
+  "selected_screen": {
+    "height": 1440,
+    "name": "DP-2",
+    "width": 2560,
+    "x": 1080,
+    "y": 1080
+  },
+  "subtitle_filter": "color_contour",
+  "overlay_position": "above_subtitle",
+  "overlay_custom_x": 1573,
+  "overlay_custom_y": 696,
+  "overlay_opacity": 0,
+  "overlay_font_family": "Sans",
+  "overlay_font_size": 12,
+  "overlay_width": 860,
+  "overlay_height": 185
+}
