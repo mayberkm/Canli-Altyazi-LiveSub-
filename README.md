@@ -1,6 +1,6 @@
 # CanlıAltyazı (LiveSub) · Gerçek Zamanlı Yerel Oyun & Video Altyazı Çevirmeni
 
-CanlıAltyazı (LiveSub); **Windows (10/11)** ve **Linux (X11)** masaüstlerinde seçtiğiniz bir ekran bölgesindeki altyazıları gerçek zamanlı olarak **PaddleOCR** ile okuyan, yerel **Ollama** modelleriyle çeviren ve sonucu **60 FPS akıcı kayan saydam overlay kutusunda** gösteren masaüstü uygulamasıdır. Tüm OCR ve çeviri işlemleri tamamen bilgisayarınızda yerel olarak çalışır.
+CanlıAltyazı (LiveSub); **Windows (10/11)** ve **Linux (X11)** masaüstlerinde seçtiğiniz bir ekran bölgesindeki altyazıları gerçek zamanlı olarak **PaddleOCR** ile okuyan, yerel **LLM** modelleriyle çeviren ve sonucu **60 FPS akıcı kayan saydam overlay kutusunda** gösteren masaüstü uygulamasıdır. Tüm OCR ve çeviri işlemleri tamamen bilgisayarınızda yerel olarak çalışır.
 
 4070Super 12 GB grafik kartı ve AMD Ryzen7 5800x ile denenmiştir, ancak kullanılan dil modeli donanımınıza bağlı olarak seçilebilmektedir. 1.8b parametreli modelle dahi çok iyi sonuç alınmaktadır. 
 
